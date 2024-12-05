@@ -104,11 +104,5 @@ app.py                          # Main application script
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to contribute, fork, and ⭐ the repository if you find it useful!
 
